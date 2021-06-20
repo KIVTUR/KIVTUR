@@ -1,3 +1,4 @@
+# Hey I am Kivtur, It is a program of star in stars using turtle library
 import turtle
 
 a = turtle.Turtle()
